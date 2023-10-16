@@ -22,5 +22,5 @@
 • Konum ve İletişim Bilgileri
 
 <h1>Proje Gifi</h1>
-![](pro.gif)# UdemigCourse
-# UdemigCourse
+
+![](pro.gif)
